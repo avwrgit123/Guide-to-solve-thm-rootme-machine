@@ -17,3 +17,4 @@ It explains using tools like Gobuster to to find hidden directories and document
 <br>
 Full guide on thm rootme.pdf
 <br>
+https://github.com/avwrgit123/Guide-to-solve-thm-rootme-machine/blob/main/thm%20rootme%20machine.pdf
